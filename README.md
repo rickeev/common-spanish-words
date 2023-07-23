@@ -29,5 +29,3 @@ To use the data parsing script, you should follow these steps:
 3. Navigate to the directory containing **parser.py** in the terminal or command prompt.
 4. Execute the script by entering the command **python parser.py** in the terminal window.
 5. Once the script runs successfully, a new **words.json** file will be generated, containing appropriately formatted contents, including IDs, English words, and their corresponding Spanish translations.
-
-Thank you for your interest in the Common Spanish Words Project. We hope this application assists you in expanding your Spanish vocabulary effectively and enjoyably!
